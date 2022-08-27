@@ -17,3 +17,5 @@ const log = (x) => console.log(x);
 
 // const double = (n) => n * 2;
 // const mdouble = map(double);
+// mdouble(Identity(4)).map(log); // 8
+// mdouble([4]).map(log); // 8
